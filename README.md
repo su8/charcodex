@@ -1,5 +1,5 @@
 # charcodex
-Return the char code in given string
+Return the char code in given string at certain index position
 
 # Usage
 
